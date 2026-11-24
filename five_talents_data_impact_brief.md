@@ -16,5 +16,3 @@ The published Burundi case study reports that more than **144,000 people** have 
 - Five Talents / CommCare (Dimagi), *Five Talents: Savings groups, owned by their communities*, July 2025: https://commcare.dimagi.com/blog/five-talents-savings-groups/
 - Five Talents partner spotlight: https://commcare.dimagi.com/clients/ngos/five-talents/
 - Five Talents official website: https://www.fivetalents.org.uk/
-
-*Prepared as a concise research brief. Figures and descriptions are attributed to the published case study.*
